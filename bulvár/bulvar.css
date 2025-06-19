@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(190, 184, 184);
+    font-family:'Papyrus', Courier, monospace;
+    padding: 0;
+    margin: 0;
+}
+header{
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 15px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.495);
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    border: 3px solid black;
+    margin: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:crimson;
+}
+p{
+    text-align: center;
+    border-bottom:  3px solid rgba(0, 0, 0, 0.495);
+    font-size:  20px;
+    padding: 15px;
+    background-color: rgba(222, 184, 135, 0.546);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+}
+.kepes{
+    align-items: center;
+}
